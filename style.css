@@ -33,7 +33,7 @@ body {
   font-size: 36px;
   color: #1b1b1b;
   font-weight: bold;
-  line-height: auto;
+  line-height: 22px;
 }
 
 #subtitle {
@@ -43,4 +43,94 @@ body {
   text-align: center;
   color: #333333;
   margin-top: 24px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+#title h2 {
+  font-size: 36px;
+  color: #1b1b1b;
+  font-weight: bold;
+  line-height: 22px;
+}
+
+#content-list #paragraph {
+  font-size: 16px;
+  font-weight: regular;
+  line-height: auto;
+  color: #333333;
+  margin-top: 8px;
+}
+
+#card-travel img {
+  border-radius: 28px;
+}
+
+#content-card {
+  margin-top: 20px;
+}
+
+#content-card h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+  line-height: auto;
+  color: #1b1b1b;
+}
+
+#content-card #paragraph {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: auto;
+  color: #333333;
+  margin-top: 8px;
+}
+
+.paragraph {
+  margin-top: 16px;
+}
+
+.paragraph .p1 {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: auto;
+  color: #333333;
+}
+
+.paragraph .p2-H {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: auto;
+  color: #0c51a7;
+}
+
+.paragraph .p2-C {
+  color: #591b98;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.paragraph .p3-F {
+  color: #e5245e;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.paragraph .p4-O {
+  color: #e95e10;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#list .p5 {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  line-height: auto;
+  color: #333333;
 }
