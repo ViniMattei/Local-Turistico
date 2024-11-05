@@ -21,7 +21,7 @@ body {
   border-radius: 28px;
 }
 
-#p1 {
+#headline {
   font-weight: bold;
   font-size: 16px;
   line-height: auto;
@@ -29,9 +29,11 @@ body {
   margin-bottom: 8px;
 }
 
-h1 {
+#title h1 {
   font-size: 36px;
   color: #1b1b1b;
+  font-weight: bold;
+  line-height: auto;
 }
 
 #subtitle {
